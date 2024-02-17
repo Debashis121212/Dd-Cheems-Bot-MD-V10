@@ -21,6 +21,83 @@
       "premium": false,
       "limit": 1000,
       "totalLimit": 0
+    },
+    "918768298758@s.whatsapp.net": {
+      "serialNumber": "d4b94cb4b0a1029abc5489315604e6a1",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+91 87682 98758",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "919062628928@s.whatsapp.net": {
+      "serialNumber": "6e36fed0a505752b2ca3515c193690cd",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Samriddho ♡",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "917890284690@s.whatsapp.net": {
+      "serialNumber": "4cf9c0bbcc269c3da29a60e18c4275bf",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "꧁༺ꮇᴏᶶ⚘༻༺℘riya༻꧂",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "919907106071@s.whatsapp.net": {
+      "serialNumber": "308751beb0f4e67ba4d075cb2422a697",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "SARASWATI JANA",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "919749837183@s.whatsapp.net": {
+      "serialNumber": "6ecda15c7f408eb8341308b3ed3f6aa6",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "~ATIF 🌼🐦🌸(NC AAFAAT✨⚡)",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "919907511401@s.whatsapp.net": {
+      "serialNumber": "c417d971aa3abd70b9a8a13b8c1d7e37",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "✨💫Ankit💫",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "919143924196@s.whatsapp.net": {
+      "serialNumber": "9347630b1ed1e2dee7d7d4054dd5c8eb",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "nargisa khatun",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
     }
   },
   "database": {},
@@ -78,6 +155,78 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "918768298758@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "919062628928@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "120363221206326465@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "120363048199591741@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -111,6 +260,36 @@
         "owner": {
           "nick": "+91 69091 37213",
           "alias": "916909137213"
+        }
+      }
+    },
+    "918768298758@s.whatsapp.net": {
+      "totalhit": 52,
+      "totalError": 0,
+      "online": true,
+      "autosticker": false,
+      "autobio": true,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "Debashis Dey\n\n+919339619072"
+      },
+      "about": {
+        "bot": {
+          "nick": "+91 87682 98758",
+          "alias": "𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙 𝖁10"
+        },
+        "owner": {
+          "nick": "Debashis(Me)",
+          "alias": "919339619072"
         }
       }
     }
