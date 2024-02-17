@@ -84,7 +84,7 @@
       "badword": 0,
       "afkReason": "",
       "nick": "✨💫Ankit💫",
-      "premium": "false",
+      "premium": false,
       "limit": 100,
       "totalLimit": 0
     },
@@ -95,6 +95,50 @@
       "badword": 0,
       "afkReason": "",
       "nick": "nargisa khatun",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "917872507363@s.whatsapp.net": {
+      "serialNumber": "4f745b76319184be20f5c6951dee853e",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "🦋✿︎♥︎𝗡ᴇᴇ𝐋♡︎✿︎💫",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "917718464327@s.whatsapp.net": {
+      "serialNumber": "b357fab49c200df0db5a7233e1f22cf8",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "🥲Ambika🥲",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "916294627538@s.whatsapp.net": {
+      "serialNumber": "8224fb4da3b2f3504dd92f1fb8c3bcd1",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Raj",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "918327526811@s.whatsapp.net": {
+      "serialNumber": "0f41d8509e77aec0807ab46d10f32faf",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "𝑺𝒍𝒆𝒆𝒑𝒊𝒏𝒈...",
       "premium": false,
       "limit": 100,
       "totalLimit": 0
@@ -227,6 +271,24 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "917449401660@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -264,7 +326,7 @@
       }
     },
     "918768298758@s.whatsapp.net": {
-      "totalhit": 52,
+      "totalhit": 278,
       "totalError": 0,
       "online": true,
       "autosticker": false,
