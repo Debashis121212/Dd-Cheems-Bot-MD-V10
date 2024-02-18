@@ -16,13 +16,13 @@ global.socialm = "GitHub: Debashis121212" //ur github or insta name
 global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 
 //new
-global.botname = '░▒▓█𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙 𝖁10█▓▒░' //ur bot name
+global.botname = '░▒▓█𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙 V10█▓▒░' //ur bot name
 global.ownernumber = '919339619072' //ur owner number
-global.ownername = '░▒▓█ 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 𝕯𝖊𝖞 █▓▒░' //ur owner name
+global.ownername = '*꧁﴿☬✞ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ✞☬﴾꧂*' //ur owner name
 global.websitex = "https://www.facebook.com/sipra.dey.56863/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
 global.themeemoji = '📌'
-global.wm = "𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝖔𝖙"
+global.wm = "▂▃▅▇█▓▒░ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝖔𝖙 ░▒▓█▇▅▃▂ "
 global.botscript = 'https://github.com/Debashis121212/Dd-Cheems-Bot' //script link
 global.packname = "Sticker By"
 global.author = "Debashis Dey\n\n+919339619072"

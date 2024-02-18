@@ -218,11 +218,11 @@ XeonWlcm = await getBuffer(ppuser)
 XeonLft = await getBuffer(ppuser)
                 if (anu.action == 'add') {
                 const xeonbuffer = await getBuffer(ppuser)
-                let xeonName = num
+                let xeonName = num 
                 const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
-                xeonbody = `┌─────────────❖ 𝕮𝖍𝖊𝖊𝖒𝖘 𝕭𝖔𝖙 ❖────────────┐
+                xeonbody = `┌───────────❖ 𝕮𝖍𝖊𝖊𝖒𝖘 𝕭𝖔𝖙 ❖───────────┐
 │「 𝗛𝗶 👋 」
 └┬❖ 「  @${xeonName.split("@")[0]}  」
    │✑  𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝕿𝖔 
@@ -240,14 +240,14 @@ XeonLft = await getBuffer(ppuser)
     | ${metadata.subject} 𝙁𝙖𝙢𝙞𝙡𝙮❤️🤝
     |
     |✑ 𝕲𝖗𝖔𝖚𝖕 𝕯𝖊𝖘𝖈𝖗𝖎𝖕𝖙𝖎𝖔𝖓:- 
-     ${metadata.desc}
+     ${metadata.desc} 
    └─┬──────────────────────┈ ⳹
          │
-         │✑ ▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓▒
+         │✑ ꧁𓊈𒆜• ◕◕═♣ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕭𝕺𝕿 ♣═◕◕ •𒆜𓊉꧂
          │                       
          │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
          │
-         │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: 9.0
+         │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: 10.0
          │
          │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
          └──────────────────────┈ ⳹`
@@ -285,11 +285,11 @@ XeonBotInc.sendMessage(anu.id,
    │✑  He/She is no more in this group 😔
    └┬─────────────────────┈ ⳹
       │
-      │✑ ▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕭𝕺𝕿─◄█▓
+      │✑ ꧁𓊈𒆜• ◕◕═♣ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕭𝕺𝕿 ♣═◕◕ •𒆜𓊉꧂
       │
       │✑ 𝕮𝖗𝖊𝖆𝖙𝖊𝖉 𝕭𝖞 : ${ownername}
       │
-      │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: 9.0
+      │✑ 𝖁𝖊𝖗𝖘𝖎𝖔𝖓: 10.0
       │
       │✑ 𝕻𝖗𝖊𝖋𝖎𝖝: None
       └─────────────────────┈ ⳹`
@@ -365,11 +365,11 @@ xeonbody = ` 𝗖𝗼𝗻𝗴𝗿𝗮𝘁𝘀🎉 @${xeonName.split("@")[0]}, yo
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `${ownername}`,
+"body": `${ownername}\n\n Follow me on Facebook`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonWlcm,
-"sourceUrl": `${wagc}`}}})
+"sourceUrl": `${websitex}`}}})
 } else if (anu.action == 'demote') {
 const xeontime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
 const xeondate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
@@ -382,11 +382,11 @@ XeonBotInc.sendMessage(anu.id,
  "externalAdReply": {"showAdAttribution": true,
  "containsAutoReply": true,
  "title": ` ${global.botname}`,
-"body": `${ownername}`,
+"body": `${ownername}\n\n Follow me on Facebook`,
  "previewType": "PHOTO",
 "thumbnailUrl": ``,
 "thumbnail": XeonLft,
-"sourceUrl": `${wagc}`}}})
+"sourceUrl": `${websitex}`}}})
 }
 }
 } catch (err) {
