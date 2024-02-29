@@ -167,7 +167,6 @@
     },
     "919339619072@s.whatsapp.net": {
       "serialNumber": "44117c88a68785851523e8c7540160f4",
-      "title": "Premium",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
@@ -184,6 +183,17 @@
       "afkReason": "",
       "nick": "Nirban",
       "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "918918628944@s.whatsapp.net": {
+      "serialNumber": "f4d0b85384a62d82439942a256d4b607",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Bisweswar Mahato🥰🥰",
+      "premium": "false",
       "limit": 100,
       "totalLimit": 0
     }
@@ -406,7 +416,7 @@
       }
     },
     "918768298758@s.whatsapp.net": {
-      "totalhit": 362,
+      "totalhit": 3,
       "totalError": 0,
       "online": true,
       "autosticker": false,

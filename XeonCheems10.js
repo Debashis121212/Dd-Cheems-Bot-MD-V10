@@ -294,7 +294,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
                             body: ownername,
                             previewType: "PHOTO",
                             thumbnail: fs.readFileSync('./XeonMedia/theme/cheemspic.jpg'),
-                            sourceUrl: wagc
+                            sourceUrl: websitex
                         }
                     },
                     text: teks
@@ -364,7 +364,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
 	message: {
 		requestPaymentMessage: {
 			currencyCodeIso4217: "USD",
-			amount1000: 999999999,
+			amount1000: 123456789,
 			requestFrom: '0@s.whatsapp.net',
 			noteMessage: {
 				extendedTextMessage: {
@@ -373,7 +373,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
 			},
 			expiryTimestamp: 999999999,
 			amount: {
-				value: 91929291929,
+				value: 919339619072,
 				offset: 1000,
 				currencyCode: "INR"
 			}
@@ -615,7 +615,7 @@ async function styletext(teks) {
             data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
             result = {
             status: 200,
-            author: 'DGXeon',
+            author: 'Debashis',
             url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
             }
             xeonyresult.push(result)
@@ -1351,7 +1351,7 @@ fs.writeFileSync('./src/data/role/user.json', JSON.stringify(xeonverifieduser, n
             break
             case 'delprem':
                 if (!XeonTheCreator) return XeonStickOwner()
-                if (args.length < 1) return replygcxeon(`Usage ${prefix + command} @tag\n${prefix + command} number\n\nExample : ${prefix + command} 916909137213`)
+                if (args.length < 1) return replygcxeon(`Usage ${prefix + command} @tag\n${prefix + command} number\n\nExample : ${prefix + command} 919339619072`)
                 if (m.mentionedJid.length !== 0) {
                     for (let i = 0; i < m.mentionedJid.length; i++) {
                         premium.splice(getPremiumPosition(m.mentionedJid[i], premium), 1)
@@ -1392,7 +1392,7 @@ replygcxeon(`Number ${bnnd} Has Become An Owner!!!`)
 break
 case 'delowner':
 if (!XeonTheCreator) return XeonStickOwner()
-if (!args[0]) return replygcxeon(`Use ${prefix+command} nomor\nExample ${prefix+command} 916909137213`)
+if (!args[0]) return replygcxeon(`Use ${prefix+command} nomor\nExample ${prefix+command} 919339619072`)
 ya = q.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(ya)
 owner.splice(unp, 1)
@@ -1400,11 +1400,11 @@ fs.writeFileSync('./src/data/role/owner.json', JSON.stringify(owner))
 replygcxeon(`The Numbrr ${ya} Has been deleted from owner list by the owner!!!`)
 break
 case 'listowner': {
-                let teks = '┌──⭓「 *List Owner* 」\n│\n'
+                let teks = '┌──────────⭓「 *List Owner* 」\n│\n'
                 for (let x of owner) {
                     teks += `│⭔ ${x}\n`
                 }
-                teks += `│\n└────────────⭓\n\n*Total : ${owner.length}*`
+                teks += `│\n└─────────────────⭓\n\n*Total : ${owner.length}*`
                 replygcxeon(teks)
             }
             break
